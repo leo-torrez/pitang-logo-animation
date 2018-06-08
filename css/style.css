@@ -1,0 +1,107 @@
+body{
+    background: #f1f1f1;
+    color: #555;
+    font-size: 18px;
+}
+
+
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes width { to { width:100%; } }
+
+svg{
+    width: 400px;
+}
+
+.fade-in {
+	opacity:0;  /* make things invisible upon start */
+	animation:fadeIn ease-in 1;
+	animation-fill-mode:forwards;
+	animation-duration:4s;
+} 
+
+.width {
+	opacity:0;  /* make things invisible upon start */
+	animation:width ease-in 1;
+	animation-fill-mode:forwards;
+	animation-duration:4s;
+} 
+
+.fade-in.um {
+    animation-delay: 0.2s;
+}
+
+.fade-in.dois {
+    animation-delay: 0.4s;
+}
+
+.fade-in.tres {
+    animation-delay: 0.6s;
+}
+
+.fade-in.quatro {
+    animation-delay: 0.8s;
+}
+
+.fade-in.cinco {
+    animation-delay: 1s;
+}
+
+.fade-in.seis {
+    animation-delay: 1.2s;
+}
+
+.fade-in.sete {
+    animation-delay: 1.4s;
+}
+
+.fade-in.oito {
+    animation-delay: 1.6s;
+}
+
+.fade-in.nove {
+    animation-delay: 1.8s;
+}
+
+.fade-in.dez {
+    animation-delay: 1.8s;
+}
+
+.fade-in.onze {
+    animation-delay: 2s;
+}
+
+.fade-in.doze {
+    animation-delay: 2.2s;
+}
+
+.fade-in.treze {
+    animation-delay: 2.4s;
+}
+
+.fade-in.quatorze {
+    animation-delay: 2.6s;
+}
+
+.fade-in.quinze {
+    animation-delay: 2.8s;
+}
+
+.fade-in.dezesseis {
+    animation-delay: 3s;
+}
+
+.fade-in.dezessete {
+    animation-delay: 3.2s;
+}
+
+.fade-in.dezoito {
+    animation-delay: 3.4s;
+}
+
+.fade-in.dezenove {
+    animation-delay: 3.6s;
+}
+
+.aumentar{
+    animation-delay: 3.6s
+}
