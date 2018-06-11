@@ -6,7 +6,7 @@ body{
 
 
 @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
-@keyframes width { to { width:100%; } }
+@keyframes width { from { opacity: 0; width: 0 } to { opacity: 1; width: 80%} }
 
 svg{
     width: 400px;
@@ -20,10 +20,10 @@ svg{
 } 
 
 .width {
-	opacity:0;  /* make things invisible upon start */
+    opacity: 0;
 	animation:width ease-in 1;
 	animation-fill-mode:forwards;
-	animation-duration:4s;
+	animation-duration:2s;
 } 
 
 .fade-in.um {
@@ -95,13 +95,13 @@ svg{
 }
 
 .fade-in.dezoito {
-    animation-delay: 3.4s;
+    animation-delay: 3s;
 }
 
 .fade-in.dezenove {
-    animation-delay: 3.6s;
+    animation-delay: 3s;
 }
 
 .aumentar{
-    animation-delay: 3.6s
+    animation-delay: 3.4s
 }

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="127.75px" height="106px" viewBox="0 0 127.75 106" enable-background="new 0 0 127.75 106" xml:space="preserve">
-<rect id="ret-laranja" x="43.742" y="47.052" fill-rule="evenodd" clip-rule="evenodd" fill="#C8700A" width="51.97" height="51.971"/>
-<rect id="ret-verde-g" x="101.077" y="51.463" fill-rule="evenodd" clip-rule="evenodd" fill="#548336" width="18.816" height="18.816"/>
-<rect id="ret-ouro-g" x="81.642" y="32.057" fill-rule="evenodd" clip-rule="evenodd" fill="#E2AE00" width="28.883" height="28.882"/>
-<rect id="ret-vermelho-p" x="112.226" y="41.903" fill-rule="evenodd" clip-rule="evenodd" fill="#B03016" width="7.233" height="7.233"/>
-<rect id="ret-amarelo-p" x="97.705" y="71.813" fill-rule="evenodd" clip-rule="evenodd" fill="#EFCB00" width="7.833" height="7.832"/>
-<rect id="ret-amarelo-m" x="7.261" y="55.329" fill-rule="evenodd" clip-rule="evenodd" fill="#EFCB00" width="27.234" height="27.235"/>
-<rect id="ret-vermelho-g" x="21.253" y="24.14" fill-rule="evenodd" clip-rule="evenodd" fill="#B03016" width="44.904" height="44.904"/>
-<rect id="ret-verde-p" x="31.257" y="84.332" fill-rule="evenodd" clip-rule="evenodd" fill="#548336" width="7.981" height="7.98"/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BE5D11" points="66.157,69.044 43.742,69.044 43.742,91.46 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ECC400" points="21.253,69.044 34.496,69.044 34.496,82.286 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BE5D11" points="81.642,60.939 95.713,60.939 95.713,75.01 "/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#426B2E" points="110.524,60.939 101.077,60.939 101.077,70.279 "/>
-<rect id="ret-vermelho-m" x="68.381" y="18.817" fill-rule="evenodd" clip-rule="evenodd" fill="#B54A13" width="10.98" height="10.98"/>
-<rect id="ret-verde-m" x="21.396" y="8.263" fill-rule="evenodd" clip-rule="evenodd" fill="#548336" width="13.664" height="13.664"/>
-<rect id="ret-amarelo-s" x="60.359" y="15.28" fill-rule="evenodd" clip-rule="evenodd" fill="#EFCB00" width="5.94" height="5.94"/>
-<rect id="ret-ouro-p" x="13.033" y="20.606" fill-rule="evenodd" clip-rule="evenodd" fill="#E2AE00" width="6.68" height="6.68"/>
-<path id="pitanga" fill="#FFFFFF" d="M52.452,50.946L52.452,50.946c-0.711,2.678-3.133,4.755-4.743,4.755
+ <svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="127.75px" height="106px" viewBox="0 0 127.75 106" enable-background="new 0 0 127.75 106" xml:space="preserve">
+     <rect id="ret-laranja" class="fade-in um" x="43.742" y="47.052" fill-rule="evenodd" clip-rule="evenodd" fill="#C8700A" width="51.97" height="51.971"/>
+     <rect id="ret-verde-g" class="fade-in dois" x="101.077" y="51.463" fill-rule="evenodd" clip-rule="evenodd" fill="#548336" width="18.816" height="18.816"/>
+     <rect id="ret-ouro-g" class="fade-in tres" x="81.642" y="32.057" fill-rule="evenodd" clip-rule="evenodd" fill="#E2AE00" width="28.883" height="28.882"/>
+     <rect id="ret-vermelho-p" class="fade-in quatro" x="112.226" y="41.903" fill-rule="evenodd" clip-rule="evenodd" fill="#B03016" width="7.233" height="7.233"/>
+     <rect id="ret-amarelo-p" class="fade-in cinco" x="97.705" y="71.813" fill-rule="evenodd" clip-rule="evenodd" fill="#EFCB00" width="7.833" height="7.832"/>
+     <rect id="ret-amarelo-m" class="fade-in seis" x="7.261" y="55.329" fill-rule="evenodd" clip-rule="evenodd" fill="#EFCB00" width="27.234" height="27.235"/>
+     <rect id="ret-verde-p" class="fade-in sete"x="31.257" y="84.332" fill-rule="evenodd" clip-rule="evenodd" fill="#548336" width="7.981" height="7.98"/>
+     <rect id="ret-verde-p"class="fade-in oito" x="31.257" y="84.332" fill-rule="evenodd" clip-rule="evenodd" fill="#548336" width="7.981" height="7.98"/>
+     <polygon fill-rule="evenodd" class="fade-in nove" clip-rule="evenodd" fill="#BE5D11" points="66.157,69.044 43.742,69.044 43.742,91.46 "/>
+     <polygon fill-rule="evenodd" class="fade-in dez" clip-rule="evenodd" fill="#ECC400" points="21.253,69.044 34.496,69.044 34.496,82.286 "/>
+     <polygon fill-rule="evenodd" class="fade-in onze" clip-rule="evenodd" fill="#BE5D11" points="81.642,60.939 95.713,60.939 95.713,75.01 "/>
+     <polygon fill-rule="evenodd" class="fade-in doze" clip-rule="evenodd" fill="#426B2E" points="110.524,60.939 101.077,60.939 101.077,70.279 "/>
+     <rect id="ret-vermelho-m" class="fade-in treze" x="68.381" y="18.817" fill-rule="evenodd" clip-rule="evenodd" fill="#B54A13" width="10.98" height="10.98"/>
+     <rect id="ret-verde-m" class="fade-in quatorze" x="21.396" y="8.263" fill-rule="evenodd" clip-rule="evenodd" fill="#548336" width="13.664" height="13.664"/>
+     <rect id="ret-amarelo-s" class="fade-in quinze" x="60.359" y="15.28" fill-rule="evenodd" clip-rule="evenodd" fill="#EFCB00" width="5.94" height="5.94"/>
+     <rect id="ret-ouro-p" class="fade-in dezeseis" x="13.033" y="20.606" fill-rule="evenodd" clip-rule="evenodd" fill="#E2AE00" width="6.68" height="6.68"/>
+     <rect id="ret-vermelho-g" class="width dezessete aumentar " x="21.253" y="24.14" fill-rule="evenodd" clip-rule="evenodd" fill="#B03016" width="44.904" height="44.904"/>
+     <path id="pitanga" fill="#FFFFFF"  class="fade-in dezoito" d="M52.452,50.946L52.452,50.946c-0.711,2.678-3.133,4.755-4.743,4.755
 	c-0.271,0-0.512-0.061-0.718-0.18c0.542-1.203,1.175-4.238-3.438-8.082c-4.277-3.564-0.947-9.888-0.783-10.19l0.028,0.267
 	c0.309,2.926,1.173,4.164,6.657,7.297C52.044,46.293,53.109,48.471,52.452,50.946 M38.97,56.045L38.97,56.045
 	c-1.28,0.86-2.62,1.315-3.875,1.315c-0.916,0-1.771-0.239-2.54-0.713c-3.465-2.133-4.171-8.308-1.573-13.763
@@ -30,8 +31,8 @@
 	c-3.676,0-7.282,2.778-9.411,7.25c-2.851,5.989-1.942,12.848,2.025,15.291c0.959,0.591,2.024,0.891,3.164,0.891
 	c1.493-0.001,3.063-0.525,4.54-1.519c0.567-0.382,2.083-1.269,3.913-1.269c0.808,0,1.589,0.177,2.331,0.521
 	c1.801,1.475,4.675,2.306,6.581,2.306l0,0c1.122,0,2.17-0.296,3.118-0.878c1.96-1.207,3.241-3.495,3.606-6.443
-	C59.539,48.393,58.977,45.216,57.601,42.325z"/>
-<path id="pitang" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M104.297,49.411v-0.125
+    C59.539,48.393,58.977,45.216,57.601,42.325z"/>
+    <path id="pitang" fill-rule="evenodd" class="fade-in dezenove" clip-rule="evenodd" fill="#FFFFFF" d="M104.297,49.411v-0.125
 	c-0.457-0.426-0.79-0.885-1.012-1.373c-0.235-0.496-0.347-1.051-0.347-1.663c0-1.127,0.39-2.066,1.164-2.829
 	c0.76-0.755,1.715-1.137,2.876-1.137c0.527,0,1.025,0.073,1.453,0.217c0.443,0.138,0.858,0.356,1.261,0.651
 	c0.359-0.347,0.718-0.599,1.093-0.766c0.36-0.166,0.761-0.246,1.188-0.246v1.253h-0.263c-0.303,0-0.565,0.033-0.787,0.103
@@ -87,4 +88,5 @@
 	c0.098,0.117,0.22,0.182,0.386,0.182c0.194,0,0.32-0.055,0.402-0.168c0.098-0.111,0.138-0.275,0.138-0.504s-0.04-0.404-0.138-0.52
 	C93.546,56.419,93.406,56.362,93.226,56.362z M90.059,57.938l0.914-2.461h0.36l0.926,2.461h-0.36l-0.263-0.736h-0.968l-0.265,0.736
 	H90.059z M90.763,56.915h0.776l-0.388-1.086L90.763,56.915z"/>
-</svg>
+
+    </svg>
